@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BotNetClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BotNetClient_jar</output-path>
+    <root id="archive" name="BotNetClient.jar">
+      <element id="module-output" name="BotNetClient" />
+    </root>
+  </artifact>
+</component>
